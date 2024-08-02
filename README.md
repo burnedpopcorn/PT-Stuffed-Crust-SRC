@@ -1,11 +1,9 @@
 # Pizza Tower: Stuffed Crust Decomp
-## This is a full decompilation of the Pizza Tower: Stuffed Crust July 6th 2023 Dev Build (Subtitled the Garfield FMOD Update)
+## This is a full decompilation of the Pizza Tower: Stuffed Crust 
+> This is based off of the July 6th 2023 Dev Build (Subtitled the Garfield FMOD Update)
+
 # ----PREREQUISITES----
-## * The original steam Pizza Tower FMOD bank files
-## * That's it
+The Original FMOD Bank Files
 
-
-
-
-
-### fuck you McGig_Jr/crewcrumber, you had this fucking coming.
+that's it
+### Thanks to

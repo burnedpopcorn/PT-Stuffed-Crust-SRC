@@ -6,4 +6,5 @@
 The Original FMOD Bank Files
 
 that's it
-### Thanks to
+## Thanks to
+@MeliaDev, for the Decomp :)

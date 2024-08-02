@@ -3,7 +3,7 @@
 > This is based off of the July 6th 2023 Dev Build (Subtitled the Garfield FMOD Update)
 
 ## ----PREREQUISITES----
-The Original FMOD Bank Files
+The Original Pizza Tower FMOD Bank Files from Steam
 
 that's it
 ## Thanks to
